@@ -101,21 +101,5 @@ You can download the Postman collection for this API from the link below:
 Download Postman Collection
 9. GitHub Repository
 You can view the source code for this project on GitHub:
-GitHub Repository
-Conclusion
-This API allows you to manage school data efficiently with features for adding schools and retrieving them based on proximity. You can test the API locally or deploy it to a hosting service like Railway for easy access.
-________________________________________
-Feel free to reach out if you encounter any issues or need further help with the project!
-markdown
-CopyEdit
 
-### What to do:
-1. **Copy** the entire content above.
-2. **Paste** it into a new file named `README.md` in your project’s root folder.
-3. Replace:
-   - `<your-repository-url>` with the URL of your GitHub repository.
-   - `<insert-download-link>` with a link to your Postman collection (if you have one).
-   - `<insert-repository-url>` with the URL of your project’s GitHub repository.
-
-This will give you a complete `README.md` file for your project.
 
